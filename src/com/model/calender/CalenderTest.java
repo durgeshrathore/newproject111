@@ -19,6 +19,8 @@ public class CalenderTest
 	{
 		driver.findElement(By.cssSelector("[class='ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all'] [class='ui-icon ui-icon-circle-triangle-e']")).click();
 		
+		
+		System.out.println("added from eclipsgggg");
 	}
 	
 	
